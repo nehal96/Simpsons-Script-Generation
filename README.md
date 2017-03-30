@@ -46,13 +46,17 @@ Current output (first 500 words):
 >homer_simpson:(small laugh) yeah, i knew you'd think it's dumb--
 
 >homer_simpson: woo! rumaki!
+>
+>
+> sports_announcer: the road to homer? what's the expression?
 
+> moe_szyslak: it's your own fault. you gotta do it yourself, homer?
 
-sports_announcer: the road to homer? what's the expression?
-moe_szyslak: it's your own fault. you gotta do it yourself, homer?
-homer_simpson: mmm, who knows? maybe i'll have to foil an assassination, or stop!
-moe_szyslak: yeah, let me burn! you been replaced by the one getting you were gonna stop drinking?
-homer_simpson:(still reasonable
+> homer_simpson: mmm, who knows? maybe i'll have to foil an assassination, or stop!
+
+> moe_szyslak: yeah, let me burn! you been replaced by the one getting you were gonna stop drinking?
+
+> homer_simpson:(still reasonable
 
 
 Verdict: Still doesn't make much sense but much better than the previous version! 
