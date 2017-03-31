@@ -21,7 +21,7 @@ Learning rate   | 0.005  |
 
 ### Let's Have Some Fun
 
-Check out the output in a professionally stylized script format! ([Click here]() for PDF)
+Check out the output in a professionally stylized script format! ([Click here](https://github.com/nehal96/Simpsons-Script-Generation/blob/master/Simpson's%20Script%20-%20Queen's%20Elizabeth.pdf) for PDF)
 
 ![](http://i.imgsafe.org/d802073142.jpg)
 
